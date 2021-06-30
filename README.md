@@ -1,19 +1,23 @@
-Sauce Labs Appium Mobile Tests
-n this repository you will find full soultion of appium test. You can use it as a start base to build other authomated tests on your local machine.
+Sauce Labs Appium Mobile Tests:-
 
-Table of Contents:
+In this repository you will find full soultion of appium test. You can use it as a start base to build other authomated tests on your local machine.
+
+Table of Contents:-
+
 1- Soultion stracture
 2- Automated test functions
 
 
-Soultion stracture:
+Soultion stracture:-
+
  Consist of three projects.
  1- First one is class libarary call SauceLab Framework which is responsible for initiating webdriver factory and data object file class for test data.
  2- Second one is class library also call SauceLab Screens which is resbonsilabe for initiating mobile page and page factory.
  3- Third one is Nunit project which call Sauce Lab Tests for writing automated test scenarios.
  
 
-Automated test functions:
+Automated test functions:-
+
  In Sauce Lab Tests Project you will find five test scenarios as mentioned below:-
  1- Verify user cannot login without username
  2- Verify user cannot login without password
