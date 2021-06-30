@@ -1,0 +1,8 @@
+{
+  "driverTypes": [
+    "Android"
+  ],
+  "itemsNames": [ "Backpack", "Bike Light" ],
+  "userDetails": [ "user","test","1234" ]
+  
+}

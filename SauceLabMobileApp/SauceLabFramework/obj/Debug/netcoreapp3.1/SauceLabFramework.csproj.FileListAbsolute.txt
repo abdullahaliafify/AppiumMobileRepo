@@ -1,0 +1,10 @@
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabFramework\bin\Debug\netcoreapp3.1\JsonFiles\App-setting.json
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabFramework\bin\Debug\netcoreapp3.1\SauceLabFramework.deps.json
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabFramework\bin\Debug\netcoreapp3.1\SauceLabFramework.dll
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabFramework\bin\Debug\netcoreapp3.1\SauceLabFramework.pdb
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabFramework\obj\Debug\netcoreapp3.1\SauceLabFramework.AssemblyInfoInputs.cache
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabFramework\obj\Debug\netcoreapp3.1\SauceLabFramework.AssemblyInfo.cs
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabFramework\obj\Debug\netcoreapp3.1\SauceLabFramework.csproj.CoreCompileInputs.cache
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabFramework\obj\Debug\netcoreapp3.1\SauceLabFramework.dll
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabFramework\obj\Debug\netcoreapp3.1\SauceLabFramework.pdb
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabFramework\obj\Debug\netcoreapp3.1\SauceLabFramework.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\bin\Debug\netcoreapp3.1\JsonFiles\App-setting.json
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\bin\Debug\netcoreapp3.1\SauceLabScreens.deps.json
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\bin\Debug\netcoreapp3.1\SauceLabScreens.dll
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\bin\Debug\netcoreapp3.1\SauceLabScreens.pdb
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\bin\Debug\netcoreapp3.1\SauceLabFramework.dll
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\bin\Debug\netcoreapp3.1\SauceLabFramework.pdb
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\obj\Debug\netcoreapp3.1\SauceLabScreens.csprojAssemblyReference.cache
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\obj\Debug\netcoreapp3.1\SauceLabScreens.AssemblyInfoInputs.cache
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\obj\Debug\netcoreapp3.1\SauceLabScreens.AssemblyInfo.cs
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\obj\Debug\netcoreapp3.1\SauceLabScreens.csproj.CoreCompileInputs.cache
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\obj\Debug\netcoreapp3.1\SauceLabScreens.csproj.CopyComplete
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\obj\Debug\netcoreapp3.1\SauceLabScreens.dll
+C:\C#-Projects\QA-Assignment\SauceLabMobileApp\SauceLabScreens\obj\Debug\netcoreapp3.1\SauceLabScreens.pdb
